@@ -8,3 +8,9 @@ Verification submitted successfully. Waiting for result...
 Verification pending...
 Verification pending...
 Verification complete. Result: Pass - Verified
+
+commands
+brownie init --force
+brownie networks list
+brown compile
+brownie run scripts/<script_file_name>.py
